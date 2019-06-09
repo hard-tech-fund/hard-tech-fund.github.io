@@ -1,0 +1,22 @@
+{
+  "name": "hardtechfund.github.io",
+  "version": "1.0.0",
+  "description": "hard tech fund website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hard-tech-fund/hardtechfund.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hard-tech-fund/hardtechfund.github.io/issues"
+  },
+  "homepage": "https://github.com/hard-tech-fund/hardtechfund.github.io#readme",
+  "dependencies": {
+    "milligram": "^1.3.0"
+  }
+}
